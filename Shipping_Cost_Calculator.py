@@ -11,3 +11,5 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by atulgnit
+
+ # Added a feature to apply a discount for weights over 10 kg.
